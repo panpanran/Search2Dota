@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Search2Dota</string>
+    <string name="search_hint">Find Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_friend">FriendActivity</string>
+    <string name="title_activity_friendrow">FriendrowActivity</string>
+    <string name="menu_search">Search</string>
+    <string name="friends_list_search_results_title">Friend List Search for \"%s\"</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friend">Friend</string>
+    <string name="nav_item_match">Personal Match</string>
+    <string name="nav_item_related">Related Match</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friend</item>
+        <item>@string/nav_item_match</item>
+        <!--<item>@string/nav_item_related</item>-->
+    </string-array>
+
+    <string name="title_match">Match</string>
+    <string name="title_friend">Friend</string>
+    <string name="title_home">Home</string>
+    <string name="title_related">Related</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

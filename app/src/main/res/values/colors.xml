@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorNavigator1">#505050</color>
+    <color name="colorNavigator2">#000000</color>
+    <color name="colorHome">#FFFFFF</color>
+    <!--定义图片颜色-->
+    <drawable name="transparent_background">#00000000</drawable>
+    <drawable name="white">#ffffff</drawable>
+
+    <!--定义文字颜色-->
+
+    <color name="solid_red">#f00</color>
+    <color name="solid_blue">#0000ff</color>
+</resources>

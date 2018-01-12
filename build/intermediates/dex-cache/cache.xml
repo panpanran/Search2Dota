@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.android\build-cache\5e29c4a9ddda2f481ee67491261e74d67d0e9980\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d53c8b81f56d03cd36a15c995fe425138d8c5eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.android\build-cache\5e29c4a9ddda2f481ee67491261e74d67d0e9980\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\classes_d53c8b81f56d03cd36a15c995fe425138d8c5eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.gradle\caches\modules-2\files-2.1\com.purplebrain.adbuddiz.sdk\AdBuddiz-Java\3.1.11\7c118e4c7be0cf5e677c9a3e523029a038736322\AdBuddiz-Java-3.1.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c118e4c7be0cf5e677c9a3e523029a038736322">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\AdBuddiz-Java-3.1.11_88c28bb14aed5f6b092c0ec3015cc6e932a358db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.gradle\caches\modules-2\files-2.1\com.purplebrain.adbuddiz.sdk\AdBuddiz-Java\3.1.11\7c118e4c7be0cf5e677c9a3e523029a038736322\AdBuddiz-Java-3.1.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c118e4c7be0cf5e677c9a3e523029a038736322">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\AdBuddiz-Java-3.1.11_88c28bb14aed5f6b092c0ec3015cc6e932a358db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.android\build-cache\b8b4eb95057f9e894a91de9d0b163c690df50efa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4ccf13b27847564c93cfae7f39e28925b29b6ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.android\build-cache\252c0d56dce09fa0fb527b6510b84359cd07b5d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\classes_11b80552344f16ad3e794e1283ca9daf1232cb20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.android\build-cache\a36d28311d33875a13282817034a906bd304f81c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\classes_eaf0a14f3140a77cb0a3adfce7a5a36654c4c913.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.android\build-cache\252c0d56dce09fa0fb527b6510b84359cd07b5d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11b80552344f16ad3e794e1283ca9daf1232cb20\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.android\build-cache\b8b4eb95057f9e894a91de9d0b163c690df50efa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\classes_f4ccf13b27847564c93cfae7f39e28925b29b6ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.android\build-cache\5e29c4a9ddda2f481ee67491261e74d67d0e9980\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_9bab0ec9004273a0cbba6a9bc1dbbde5e5c853a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.android\build-cache\5e29c4a9ddda2f481ee67491261e74d67d0e9980\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0_9bab0ec9004273a0cbba6a9bc1dbbde5e5c853a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.android\build-cache\a36d28311d33875a13282817034a906bd304f81c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eaf0a14f3140a77cb0a3adfce7a5a36654c4c913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7e2aed6883251d0653c1f74d703546010e274df8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0_3d6ef6bc1db10344a5d07d822db4f02154b96950.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.android\build-cache\43bdc50c7fb3c0094b419813b2a0808814f8f597\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6825a79ca6c134dd6f26fc15eff443b5215dbdc">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a174d02e2c42adea4d5801af4a9b759019754fb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a84f1d87c1341845f2a9aae61878cbd09a63f3d6">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8ba55d7ffa9d1cd8d4ef293216d29bed27fa38a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.android\build-cache\43bdc50c7fb3c0094b419813b2a0808814f8f597\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6825a79ca6c134dd6f26fc15eff443b5215dbdc">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\classes_a174d02e2c42adea4d5801af4a9b759019754fb1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\.android\build-cache\b9be55ef3b513600de081b22a9dc9e267f95e4d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29c804f1b341567bb079fe73cbc58e6fca69330a">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78283559e1ebaf9cc1f7f2289269c10e090e3817\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rp3yf\.android\build-cache\b9be55ef3b513600de081b22a9dc9e267f95e4d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29c804f1b341567bb079fe73cbc58e6fca69330a">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\pre-dexed\release\classes_78283559e1ebaf9cc1f7f2289269c10e090e3817.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rp3yf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\rp3yf\Downloads\My Program\Java\Dota2Search\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_3d6ef6bc1db10344a5d07d822db4f02154b96950\classes.dex" />
+    </item>
+
+</items>

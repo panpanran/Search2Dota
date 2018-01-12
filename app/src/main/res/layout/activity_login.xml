@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/loginlayout"
+    style="@style/layout_full"
+    android:orientation="vertical"
+    tools:context="ranpan.dota2search.LoginActivitya">
+
+    <LinearLayout
+        style="@style/layout_vertical"
+        android:layout_weight="1"
+        android:orientation="vertical" />
+
+    <!-- Login progress -->
+    <LinearLayout
+        style="@style/layout_vertical"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <ranpan.dota2search.CustomView.HorizontalListView
+            android:id="@+id/historyList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        style="@style/layout_vertical"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/txtAccountID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Account ID"
+            android:imeOptions="actionUnspecified"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/btnSignin"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Sign in"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>
